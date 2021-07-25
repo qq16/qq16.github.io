@@ -1,0 +1,16 @@
+{
+  "name": "qq16.github.io",
+  "version": "1.0.0",
+  "description": "A vuepress blog.",
+  "main": "index.js",
+  "repository": "https://github.com/qq16/qq16.github.io",
+  "author": "qq16",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
