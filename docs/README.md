@@ -23,3 +23,7 @@ footer: MIT Licensed | Copyright © 2019-present Zhang Yang
 我也做过一些简单的`SPA`，不过只是了解了一些知识，却没有深度运用。
 通过这个项目，我接触到了一些新的东西，比如`ant design`,`normalize.css`等。
 对之前接触过的轮子比如`react router`也有了更深的了解。（一点后话：当时路由传参得用`props.match.params`，现在可以用`useParams`这个钩子函数，方便多了)
+
+## 接下来的计划
+
+因为过去一年多时间里我上传了上百道题目(JS 语法题为主)到一个频道里，所以我打算用这个博客放一些题解。
